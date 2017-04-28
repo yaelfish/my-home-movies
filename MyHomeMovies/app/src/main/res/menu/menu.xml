@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/delete_all_movies_list" android:id="@+id/delete_all_movies_list"
+        android:icon="@drawable/trash_can_icon"> </item>
+    <item android:title="@string/exit_app" android:id="@+id/exit_app"
+        android:icon="@drawable/exit"> </item>
+</menu>

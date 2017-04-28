@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">My Home Movies</string>
+    <string name="exit_app">Exit</string>
+    <string name="delete_all_movies_list">Delete All Movies From List</string>
+    <string name="dialog_delete_message">Are you sure you want to delete all the movies from your list?</string>
+    <string name="dialog_delete_item_message">What would you like to to? </string>
+    <string name="dialog_delete_item_title">Delete or Edit</string>
+    <string name="dialog_delete_title">Delete List</string>
+    <string name="dialog_delete_btn_yes">Yes</string>
+    <string name="dialog_delete_btn_edit">Edit</string>
+    <string name="dialog_delete_btn_no">No</string>
+    <string name="dialog_delete_btn_delete_item">Delete</string>
+    <string name="toast_delete_yes">You removed all the movies from your list</string>
+    <string name="toast_delete_no">You chose to keep all the movies in your Movie list</string>
+    <string name="wellcome_to_app">Welcome to My Home Movies App</string>
+    <string name="add_new_movie">Add new movie</string>
+    <string name="dialog_add_film_message">Would you like to search the web for the movie or add it manually?</string>
+    <string name="dialog_add_film_title">Add Movie</string>
+    <string name="manual">Manual</string>
+    <string name="web">Search the web</string>
+    <string name="title">Movie Title</string>
+    <string name="body">Movie Plot</string>
+    <string name="url_view">URL: </string>
+    <string name="save_added_movie_details">Save</string>
+    <string name="show_pic">Show image</string>
+    <string name="wellcome_movie_act">Add new Movies</string>
+    <string name="wellcome_web_act">Search for Movies Online</string>
+    <string name="web_select_movie_name">Select</string>
+    <string name="web_select_search_btn">Search</string>
+    <string name="web_search_hint">Enter here movie name</string>
+    <string name="error">An error has occured</string>
+    <string name="hint_body_movieact">Enter Movie Plot Here</string>
+    <string name="hint_title_movieact">Enter Movie Title Here</string>
+    <string name="hint_url_movieact">Enter URL for movie image here</string>
+    <string name="checkbox">watched?</string>
+    <string name="checkbox_watched">watched!</string>
+    <string name="checkbox_not">not watched</string>
+    <string name="toast_movact_movie_added">new movie was added to list</string>
+    <string name="btn_share">Share</string>
+    <string name="string_share_header">Sharing a movie with you: </string>
+    <string name="share_title">\n\nTitle: \n</string>
+    <string name="share_body">\n\nSummary: \n</string>
+    <string name="share_url">\n\nPress link to see Movie Poster: \n</string>
+
+
+</resources>
